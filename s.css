@@ -1,0 +1,116 @@
+body {
+
+ 
+    background-image:url("29.png");
+  
+}
+.l1{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.header{
+    margin-top: 29px;
+    padding: 10;
+    font-size: 29px;
+    font-style: italic;
+    font-weight: bold;
+    color: #B73032;
+    text-align:center;
+    text-shadow: 2px 2px #ff0000;
+    
+    
+}
+.main-contect li{
+        width: 70 px;
+        list-style: none;
+        float: left;
+        text-align: center;
+        margin-right: 60px;
+          
+       
+}
+.i1{
+      background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    
+}
+.i2{
+ background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 25px;
+	 margin-left: 13px;
+}
+.i3{
+background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 20px;
+	 margin-left: 0px;
+
+}
+.i4{
+      background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+	
+	 
+}
+.i5{
+ background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 25px;
+	 margin-left: 13px;
+	 
+}
+.i6{
+     background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 20px;
+	 margin-left: 0px;
+}
+.i7{
+     background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 20px;
+	 margin-left: 0px;
+}
+.i8{
+     background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 20px;
+	 margin-left: 0px;
+}
+.i9{
+      background-color: #3A3755;
+    width: 15%;
+    height: 35%;
+    float: left;
+    border-radius: 25px;
+    margin-right: 20px;
+	 margin-left: 0px;
+}
